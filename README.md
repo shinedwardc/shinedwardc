@@ -1,4 +1,7 @@
-### Hi I am a student at Rensselaer Polytechnic Institute
+---
+### :man_technologist: About me
+
+I am a student at Rensselaer Polytechnic Institute 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinedwardc&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinedwardc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
