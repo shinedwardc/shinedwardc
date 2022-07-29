@@ -1,8 +1,6 @@
 ### :man_technologist: About me
 
 I am a student at Rensselaer Polytechnic Institute 
----
-###: :heavy_check_mark: Languages & Frameworks
 
 ---
 ### :chart_with_upwards_trend: My stats
