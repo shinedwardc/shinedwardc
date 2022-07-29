@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hi I am a student at Rensselaer Polytechnic Institute
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shinedwardc&theme=highcontrast&show_icons=true&count_private=true)
 
