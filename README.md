@@ -1,4 +1,4 @@
-<div id = "header" align = "center">
+o⁹<div id = "header" align = "center">
   <img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = "100">
 </div>
 
@@ -7,8 +7,7 @@
 ### Welcome to my GitHub profile! 👋
 ### :man_technologist: About me
 I am a junior pursuing a Bachelor's degree in Computer Science, Information Tehcnology & Web Science at Rensselaer Polytechnic Institute.
-I am looking for opportunities in software engineering / web development for Summer 2023.
-
+I'm mainly interested in web development and software engineering. 
 
 <!--
 ---
