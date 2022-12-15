@@ -7,7 +7,7 @@
 ### Welcome to my GitHub profile! 👋
 ### :man_technologist: About me
 I am a junior pursuing a Bachelor's degree in Computer Science, Information Tehcnology & Web Science at Rensselaer Polytechnic Institute.
-I'm mainly interested in web development and software engineering. 
+I'm mainly interested in front-end and back-end development.
 
 <!--
 ---
