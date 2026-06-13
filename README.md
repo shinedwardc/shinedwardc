@@ -1,7 +1,7 @@
 # Hi, I'm Edward 👋
 
 Full-stack software engineer (CS, RPI '26) currently based in San Francisco.
-I mostly build with TypeScript, React, Python/FastAPI, and PostgreSQL.
+Right now I build with TypeScript, React, Python/FastAPI, and PostgreSQL.
 Currently looking for my first full-time SWE role.
 
 ## 🔭 What I'm building
