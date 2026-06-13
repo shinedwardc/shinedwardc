@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Edward 👋
 
-<!--
-**shinedwardc/shinedwardc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer (CS, RPI '26) currently based in San Francisco.
+I mostly build with TypeScript, React, Python/FastAPI, and PostgreSQL.
+Currently looking for my first full-time SWE role.
 
-Here are some ideas to get you started:
+## 🔭 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[MindFrame](https://github.com/shinedwardc/MindFrame)** — AI-powered
+mental health journaling app
+- Claude API classifies cognitive distortions *and* strengths from
+  free-form journal entries
+- Next.js · FastAPI · PostgreSQL · Auth.js v5 · Docker
+
+## 🧰 Stack
+
+**Languages:** TypeScript, Python, C/C++, SQL
+**Frontend:** React, Next.js
+**Backend:** FastAPI, Node.js/Express, PostgreSQL, SQLAlchemy
+**Tools:** Docker, Git, AWS (learning — S3, EC2, RDS), WSL
+
+## 📝 Currently learning
+
+- AWS services
+- MCP servers
+- Agentic patterns with the Anthropic API
+
+## 📫 Reach me
+
+[Email](shinedwardc@gmail.com) · [LinkedIn](https://linkedin.com/in/edward-shin-64156617a) 
