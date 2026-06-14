@@ -14,10 +14,10 @@ mental health journaling app
 
 ## 🧰 Stack
 
-**Languages:** TypeScript, Python, C/C++, SQL
-**Frontend:** React, Next.js
-**Backend:** FastAPI, Node.js/Express, PostgreSQL, SQLAlchemy
-**Tools:** Docker, Git, AWS (learning — S3, EC2, RDS), WSL
+- **Languages:** TypeScript, Python, C/C++, SQL
+- **Frontend:** React, Next.js
+- **Backend:** FastAPI, Node.js/Express, PostgreSQL, SQLAlchemy
+- **Tools:** Docker, Git, AWS (learning — S3, EC2, RDS), WSL
 
 ## 📝 Currently learning
 
