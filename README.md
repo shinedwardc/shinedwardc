@@ -23,7 +23,7 @@ mental health journaling app
 
 - AWS services
 - MCP servers
-- Agentic patterns with the Anthropic API
+- Agentic patterns with LLM APIs
 
 ## 📫 Reach me
 
