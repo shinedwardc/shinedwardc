@@ -1,4 +1,4 @@
-# Hi, I'm Edward 👋
+# Hello, I'm Edward · 신호철 👋
 
 Full-stack software engineer (CS, RPI '26).
 Right now I'm focused on building projects from scratch and experimenting with AI APIs.
