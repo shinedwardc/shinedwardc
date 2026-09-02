@@ -12,18 +12,23 @@ mental health journaling app
   free-form journal entries
 - Next.js · FastAPI · PostgreSQL · Auth.js v5 · Docker
 
+**[Pulp](https://github.com/shinedwardc/Pulp)** — a request-driven news digest
+- Inverts the typical feed algorithm: instead of ranking and recommending
+  content, you give a free-text request and it filters news feeds down to
+  what's actually relevant tailored to your request
+- Next.js · React · Tailwind CSS · Claude API · TypeScript
+
+**[hone](https://github.com/shinedwardc/hone)** — a sandboxed coding agent
+- Gives an LLM four tools (list, read, write, execute) to reproduce bugs,
+  find root causes, apply minimal fixes, and verify them
+- Python · OpenAI SDK (via OpenRouter) · uv
+
 ## 🧰 Stack
 
-- **Languages:** TypeScript, Python, C/C++, SQL
+- **Languages:** TypeScript, Python, SQL, C/C++
 - **Frontend:** React, Next.js
 - **Backend:** FastAPI, Node.js/Express, PostgreSQL, SQLAlchemy
 - **Tools:** Docker, Git, AWS (learning — S3, EC2, RDS), WSL
-
-## 📝 Currently learning
-
-- AWS services
-- MCP servers
-- Agentic patterns with LLM APIs
 
 ## 📫 Reach me
 
